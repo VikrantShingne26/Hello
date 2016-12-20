@@ -10,11 +10,12 @@ ll.add("raja");
 ll.add("rahul");
 ll.add("ravi");
 System.out.println(ll);
-//elements added to ll with rani
-System.out.println(ll);
+
+
 //rani also be now part of LinkedList as  
 
-
+//elements added to ll
+ 
 	}
 	
 }
