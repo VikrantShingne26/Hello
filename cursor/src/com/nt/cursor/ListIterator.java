@@ -5,6 +5,7 @@ import java.util.LinkedList;
 public class ListIterator {
 	public static void main(String[] args) {
 LinkedList ll=new LinkedList();
+//add element to LinkedList
 ll.add("raja");
 ll.add("rahul");
 ll.add("ravi");
